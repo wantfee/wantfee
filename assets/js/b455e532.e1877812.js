@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1659],{4235:(e,t,a)=>{a.r(t),a.d(t,{default:()=>r});var s=a(3285),l=a(7294);const n="aboutContainer_V9mP",r=()=>l.createElement(s.Z,{title:"About",description:"Here's the about page"},l.createElement("div",{className:n},l.createElement("h1",null,"Here's the about page")))}}]);
